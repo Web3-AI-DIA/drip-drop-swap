@@ -31,7 +31,7 @@ Drip-Drop-Swap is a production-grade, decentralized Constant-Product AMM (x * y 
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/drip-drop-swap.git
+git clone https://github.com/Web3-AI-DIA/drip-drop-swap.git
 
 # Install dependencies
 npm install
