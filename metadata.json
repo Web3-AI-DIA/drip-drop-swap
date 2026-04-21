@@ -1,0 +1,6 @@
+{
+  "name": "Drip-Drop-Swap",
+  "description": "A precision liquidity constant-product AMM built on the Sui blockchain using Move.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
